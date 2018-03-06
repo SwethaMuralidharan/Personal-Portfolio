@@ -1,7 +1,13 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.5bb66afb.js",
-  "main.js.map": "static/js/main.5bb66afb.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.c7ba0bc6.css",
+  "main.css.map": "static/css/main.c7ba0bc6.css.map",
+  "main.js": "static/js/main.25111e52.js",
+  "main.js.map": "static/js/main.25111e52.js.map",
+  "static/media/Airbnb_1.png": "static/media/Airbnb_1.07b3cc9f.png",
+  "static/media/Foogle_1.png": "static/media/Foogle_1.92aa5b35.png",
+  "static/media/Lovely_1.png": "static/media/Lovely_1.30c70f57.png",
+  "static/media/Pro.jpg": "static/media/Pro.5db21984.jpg",
+  "static/media/Travagram_1.png": "static/media/Travagram_1.882cf9ae.png",
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/tic-tac-toe.png": "static/media/tic-tac-toe.7c73cb89.png"
 }
